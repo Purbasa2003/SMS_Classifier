@@ -1,15 +1,15 @@
 ## SMS_Classifier
 
-# Project Description
+Project Description
 
 This project involves the development of a classification model to categorize SMS messages as either spam or not spam. Leveraging data science techniques in Python, the project aims to provide an effective solution for spam detection.
 
-# Tools and Technologies Used
+Tools and Technologies Used
 
 - *Google Colaboratory*: Used for initial code development and execution.
 - *Visual Studio Code*: Utilized for code refinement and further development.
 
-# Data Science Techniques
+Data Science Techniques
 
 The following data science techniques were employed to develop the classification model:
 
